@@ -31,5 +31,16 @@
     "created_at_utc": "2026-05-03 12:33:57 UTC",
     "bundle_path": "bundles/vinba030526.html.json",
     "has_bundle": true
+  },
+  "test12345vi.html": {
+    "brand": "VegasInsider",
+    "table_title": "Table 1",
+    "file": "test12345vi.html",
+    "pages_url": "https://bettercollective26.github.io/VegasInsiderty26/test12345vi.html",
+    "github_repo_url": "https://github.com/bettercollective26/VegasInsiderty26",
+    "created_by": "amybc",
+    "created_at_utc": "2026-05-03 13:09:07 UTC",
+    "bundle_path": "bundles/test12345vi.html.json",
+    "has_bundle": true
   }
 }
