@@ -119,5 +119,16 @@
     "created_at_utc": "2026-05-10 14:48:00 UTC",
     "bundle_path": "bundles/vi100526.html.json",
     "has_bundle": true
+  },
+  "vi1005261750.html": {
+    "brand": "VegasInsider",
+    "table_title": "Table 1",
+    "file": "vi1005261750.html",
+    "pages_url": "https://bettercollective26.github.io/VegasInsiderty26/vi1005261750.html",
+    "github_repo_url": "https://github.com/bettercollective26/VegasInsiderty26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-05-10 16:51:08 UTC",
+    "bundle_path": "bundles/vi1005261750.html.json",
+    "has_bundle": true
   }
 }
